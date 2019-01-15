@@ -1,0 +1,4 @@
+Source: ark-cpp-crypto
+Version: 1.0.0
+Build-Depends: 
+Description: A simple Cryptography Implementation in C++ for the Ark Blockchain.
